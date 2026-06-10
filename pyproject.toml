@@ -3,6 +3,8 @@ name = "demoanalytics"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "ooo-dev-tools>=0.53.4",
+    "oooenv>=0.2.4",
     "openpyxl>=3.1.5",
     "pandas>=3.0.3",
     "pyexcel>=0.7.4",
